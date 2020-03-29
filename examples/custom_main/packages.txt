@@ -1,0 +1,5 @@
+# example list of packages loaded in example
+
+0ad
+4g8
+4ti2

@@ -6,7 +6,7 @@ from debian_watcher.storage import Storage
 PACKAGES_FILE = "./packages.txt"
 
 try:
-    from example_reporter import custom_reporter
+    from reporter import custom_reporter
     print("Found a custom reporter")
 except ImportError:
     custom_reporter = None

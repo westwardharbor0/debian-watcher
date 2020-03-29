@@ -5,7 +5,8 @@
 Purpose of this script is to track changes of your debian packages
 <br>
 If any changes happen you can define your own reporter method which can contain for example `sentry` trigger
-
+# Examples
+Examples can be seen in [`examples`](examples)
 # Usage
 ## venv
 If you want to run `debian_watcher` using python3 venv run: 
